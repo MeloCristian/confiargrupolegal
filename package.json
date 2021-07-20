@@ -1,0 +1,25 @@
+{
+  "name": "confiargrupolegal",
+  "version": "1.0.0",
+  "description": "Pagina web confiar grupo legal ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeloCristian/confiargrupolegal.git"
+  },
+  "author": "Cristian Melo Alvarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeloCristian/confiargrupolegal/issues"
+  },
+  "homepage": "https://github.com/MeloCristian/confiargrupolegal#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "expres": "^0.0.5",
+    "typescript": "^4.3.5"
+  }
+}
